@@ -1,3 +1,2 @@
 # thewizard
-
-Babbel Code Challenge
+code challenge
